@@ -90,7 +90,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-// Rolleri otomatik oluştur
 using (var scope = app.Services.CreateScope())
 {
     var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();

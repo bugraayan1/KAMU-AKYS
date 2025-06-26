@@ -4462,11 +4462,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\KAMU-AKYS\\KAMU-AKYS\\28-arge-inovasyon\\inovasyon-fikir-havuzu\\backend\\InovasyonFikirHavuzu\\InovasyonFikirHavuzu.csproj",
+      "projectUniqueName": "C:\\KAMU-AKYS\\28-arge-inovasyon\\inovasyon-fikir-havuzu\\backend\\InovasyonFikirHavuzu\\InovasyonFikirHavuzu.csproj",
       "projectName": "InovasyonFikirHavuzu",
-      "projectPath": "C:\\KAMU-AKYS\\KAMU-AKYS\\28-arge-inovasyon\\inovasyon-fikir-havuzu\\backend\\InovasyonFikirHavuzu\\InovasyonFikirHavuzu.csproj",
+      "projectPath": "C:\\KAMU-AKYS\\28-arge-inovasyon\\inovasyon-fikir-havuzu\\backend\\InovasyonFikirHavuzu\\InovasyonFikirHavuzu.csproj",
       "packagesPath": "C:\\Users\\karsl\\.nuget\\packages\\",
-      "outputPath": "C:\\KAMU-AKYS\\KAMU-AKYS\\28-arge-inovasyon\\inovasyon-fikir-havuzu\\backend\\InovasyonFikirHavuzu\\obj\\",
+      "outputPath": "C:\\KAMU-AKYS\\28-arge-inovasyon\\inovasyon-fikir-havuzu\\backend\\InovasyonFikirHavuzu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
