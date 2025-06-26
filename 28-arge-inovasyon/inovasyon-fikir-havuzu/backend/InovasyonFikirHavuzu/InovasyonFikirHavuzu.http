@@ -1,0 +1,6 @@
+@InovasyonFikirHavuzu_HostAddress = http://localhost:5218
+
+GET {{InovasyonFikirHavuzu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

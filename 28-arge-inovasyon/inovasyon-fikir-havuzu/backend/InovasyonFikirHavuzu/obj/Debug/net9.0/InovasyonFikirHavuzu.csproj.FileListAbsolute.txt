@@ -1,0 +1,8 @@
+C:\KAMU-AKYS\KAMU-AKYS\28-arge-inovasyon\inovasyon-fikir-havuzu\backend\InovasyonFikirHavuzu\obj\Debug\net9.0\InovasyonFikirHavuzu.csproj.AssemblyReference.cache
+C:\KAMU-AKYS\KAMU-AKYS\28-arge-inovasyon\inovasyon-fikir-havuzu\backend\InovasyonFikirHavuzu\obj\Debug\net9.0\InovasyonFikirHavuzu.GeneratedMSBuildEditorConfig.editorconfig
+C:\KAMU-AKYS\KAMU-AKYS\28-arge-inovasyon\inovasyon-fikir-havuzu\backend\InovasyonFikirHavuzu\obj\Debug\net9.0\InovasyonFikirHavuzu.AssemblyInfoInputs.cache
+C:\KAMU-AKYS\KAMU-AKYS\28-arge-inovasyon\inovasyon-fikir-havuzu\backend\InovasyonFikirHavuzu\obj\Debug\net9.0\InovasyonFikirHavuzu.AssemblyInfo.cs
+C:\KAMU-AKYS\KAMU-AKYS\28-arge-inovasyon\inovasyon-fikir-havuzu\backend\InovasyonFikirHavuzu\obj\Debug\net9.0\InovasyonFikirHavuzu.csproj.CoreCompileInputs.cache
+C:\KAMU-AKYS\KAMU-AKYS\28-arge-inovasyon\inovasyon-fikir-havuzu\backend\InovasyonFikirHavuzu\obj\Debug\net9.0\InovasyonFikirHavuzu.MvcApplicationPartsAssemblyInfo.cs
+C:\KAMU-AKYS\KAMU-AKYS\28-arge-inovasyon\inovasyon-fikir-havuzu\backend\InovasyonFikirHavuzu\obj\Debug\net9.0\InovasyonFikirHavuzu.MvcApplicationPartsAssemblyInfo.cache
+C:\KAMU-AKYS\KAMU-AKYS\28-arge-inovasyon\inovasyon-fikir-havuzu\backend\InovasyonFikirHavuzu\obj\Debug\net9.0\InovasyonFikirHavuzu.sourcelink.json
