@@ -17,7 +17,7 @@ pipeline {
 
         stage('Restore'){
             steps {
-                dir('28-arge-inovasyon/inovasyon-fikir-havuzu/backend'){
+                dir('28-arge-inovasyon/inovasyon-fikir-havuzu/backend/InovasyonFikirHavuzu'){
                    bat "dotnet restore"
                 }
             }
